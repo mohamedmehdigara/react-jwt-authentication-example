@@ -10,13 +10,13 @@
         "start": "webpack-dev-server --open"
     },
     "dependencies": {
-        "formik": "^1.5.2",
+        "formik": "^2.2.9",
         "history": "^4.9.0",
         "react": "^16.8.6",
         "react-dom": "^16.8.6",
         "react-router-dom": "^5.0.0",
         "rxjs": "^6.3.3",
-        "yup": "^0.27.0"
+        "yup": "^0.32.11"
     },
     "devDependencies": {
         "@babel/core": "^7.4.3",
